@@ -46,7 +46,7 @@ Fork it. Improve it. Make it yours. And if you want to hate on free open source 
 
 Open Claude Code and paste this. Claude does the rest.
 
-> Install gstack: run **`git clone https://github.com/garrytan/gstack.git ~/.claude/skills/gstack && cd ~/.claude/skills/gstack && ./setup`** then add a "gstack" section to CLAUDE.md that says to use the /browse skill from gstack for all web browsing, never use mcp\_\_claude-in-chrome\_\_\* tools, and lists the available skills: /office-hours, /plan-ceo-review, /plan-eng-review, /plan-design-review, /design-consultation, /review, /ship, /land-and-deploy, /canary, /benchmark, /browse, /qa, /qa-only, /design-review, /setup-browser-cookies, /setup-deploy, /retro, /investigate, /document-release, /codex, /cso, /autoplan, /careful, /freeze, /guard, /unfreeze, /gstack-upgrade. Then ask the user if they also want to add gstack to the current project so teammates get it.
+> Install gstack: run **`git clone https://github.com/chpiatt/gstack.git ~/.claude/skills/gstack && cd ~/.claude/skills/gstack && ./setup`** then add a "gstack" section to CLAUDE.md that says to use the /browse skill from gstack for all web browsing, never use mcp\_\_claude-in-chrome\_\_\* tools, and lists the available skills: /office-hours, /plan-ceo-review, /plan-eng-review, /plan-design-review, /design-consultation, /review, /ship, /land-and-deploy, /canary, /benchmark, /browse, /qa, /qa-only, /design-review, /setup-browser-cookies, /setup-deploy, /retro, /investigate, /document-release, /codex, /cso, /autoplan, /careful, /freeze, /guard, /unfreeze, /gstack-upgrade. Then ask the user if they also want to add gstack to the current project so teammates get it.
 
 ### Step 2: Add to your repo so teammates get it (optional)
 
@@ -61,7 +61,7 @@ gstack works on any agent that supports the [SKILL.md standard](https://github.c
 Install to one repo:
 
 ```bash
-git clone https://github.com/garrytan/gstack.git .agents/skills/gstack
+git clone https://github.com/chpiatt/gstack.git .agents/skills/gstack
 cd .agents/skills/gstack && ./setup --host codex
 ```
 
@@ -70,7 +70,7 @@ When setup runs from `.agents/skills/gstack`, it installs the generated Codex sk
 Install once for your user account:
 
 ```bash
-git clone https://github.com/garrytan/gstack.git ~/gstack
+git clone https://github.com/chpiatt/gstack.git ~/gstack
 cd ~/gstack && ./setup --host codex
 ```
 
@@ -81,7 +81,7 @@ discovery from the source repo checkout.
 Or let setup auto-detect which agents you have installed:
 
 ```bash
-git clone https://github.com/garrytan/gstack.git ~/gstack
+git clone https://github.com/chpiatt/gstack.git ~/gstack
 cd ~/gstack && ./setup --host auto
 ```
 
