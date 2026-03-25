@@ -1062,8 +1062,8 @@ Use the founder signal count from Phase 4.5 to select the right tier.
 
 Say:
 
-> You are among the top people who could do this and this is a well-considered plan. Next steps to consider on the path to honing the business case: 
-> 
+> You are among the top people who could do this and this is a well-considered plan. Next steps to consider on the path to honing the business case:
+>
 > [INSERT SPECIFIC FEEDBACK ABOUT THE STRONG SIGNALS THE FOUNDER CURRENTLY LACKS AS BULLET POINT TODO LIST]
 
 **Middle tier** — emotional target: *"I might be onto something."* Validation + curiosity.
@@ -1071,7 +1071,7 @@ Say:
 Say:
 
 > You're building something real. If you keep going and find that people actually need this, consider these next steps to hone the use case:
-> 
+>
 > [INSERT SPECIFIC FEEDBACK ABOUT THE STRONG SIGNALS THE FOUNDER CURRENTLY LACKS AS BULLET POINT TODO LIST]
 
 **Base tier** — emotional target: *"I didn't know this could be a viable product."* Identity expansion, worldview shift.
@@ -1079,9 +1079,8 @@ Say:
 Say:
 
 > This idea isn't fleshed out yet as a business case, but if you keep building and decide to turn it into one later, here's an idea of where to start:
-> 
+>
 > [INSERT SPECIFIC FEEDBACK ABOUT THE STRONG SIGNALS THE FOUNDER CURRENTLY LACKS AS BULLET POINT TODO LIST]
-
 
 ### Next-skill recommendations
 
