@@ -862,7 +862,7 @@ align cleanly. Never truncate project names.
 ║  • [1-line description of second theme]
 ║  • [1-line description of third theme]
 ║
-║  Powered by gstack · github.com/garrytan/gstack
+║  Powered by gstack · github.com/chpiatt/gstack
 ╚═══════════════════════════════════════════════════════════════
 ```
 
@@ -991,7 +991,7 @@ Use the Write tool to save JSON to `~/.gstack/retros/global-${today}-${next}.jso
   "projects": [
     {
       "name": "gstack",
-      "remote": "https://github.com/garrytan/gstack",
+      "remote": "https://github.com/chpiatt/gstack",
       "commits": 47,
       "insertions": 3200,
       "deletions": 800,
